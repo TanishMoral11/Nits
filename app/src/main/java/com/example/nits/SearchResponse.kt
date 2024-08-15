@@ -5,5 +5,5 @@ data class SearchResponse(
 )
 
 data class ImageResult(
-    val image_url: String
+    val image: String
 )
